@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
+  m_Name: 0Green1
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Yo yo yo, if isn't Gramps.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: That clip of you falling down has gone viral. So many people are laughing
+      at you right now.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (*Sigh* this guy gets to me.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: How many followers do you have?
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Roughly 300k.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: That's a lot more than what I was expecting.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: That's what happens when you have a camera and do some vlogging and gaming
+      and doing pranks for 8 years.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5467562084085646670, guid: ccd911062b73cb0478555040eec8f83e, type: 3}
+          m_TargetAssemblyTypeName: EventManager, Assembly-CSharp
+          m_MethodName: UpdateFlag
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2

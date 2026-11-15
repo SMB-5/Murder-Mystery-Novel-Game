@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Attention Passengers. May I have your attention please.
+    speakerName: 'Announcer:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: The Train bound for the Seashell Pier will arrive in approximately 2 Minutes.
+    speakerName: 'Announcer:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: This is a non stop train to the Seashell Pier, and so it will not be stoping
+      at any other station.
+    speakerName: 'Announcer:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (Alright it's almost time.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I do wonder why I've been asked to go to the Pier...)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (It was only three days ago when I received that strange note in the mail.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (All that note said was for me to take the train to the Pier on Saturday
+      at 11AM.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: "(Getting to the Pier non stop by train takes roughly 6 Hours. \nI will
+      need to find a way to keep myself occupied.)"
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: 'The Train bound for the Seashell Pier has arrived. Please board immediately
+      as the train will depart in one minute. '
+    speakerName: 'Announcer:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (Alright, here we go.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I boarded the train and it doesn't seem busy at all.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I know this is a small train but I was expecting more.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (There are Six other passengers on this train not including myself.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I'm not sure why, but these passengers seem familiar to me. I feel like
+      I recognise them from somewhere...)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (Ah, there is one passnger here I do know quite well. I used to work with
+      him in the past.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Well well well, who do we have here?
+    speakerName: 'Yellow:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Hey Yellow. It's been a long time.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Hasn't been that long, partner. Also call me Sheriff.
+    speakerName: 'Yellow:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: You got it, partner!
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (Sheriff Yellow... I wonder what he thinks of me nowadays.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I took another good look at the other passengers and I don't still seem
+      to recognise them at all.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Excuse me Sir, do I know you?
+    speakerName: 'Purple:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Who? Me? I don't think so.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: ...
+    speakerName: 'Blue:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I can't wait to get to the beach! I'm going to collect so many Seashells!!!
+    speakerName: 'Pink:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I just can't wait to finally relax.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I know you're going to go around and prank people for views, Green.
+    speakerName: 'Red:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: What? No, what are you talking about man?
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Chat can we believe this guy?
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (An Influencer? Great now any mistake of mine will be shown for the world
+      to see and laugh at...)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Doors are now closing. Please hold on to something as we disembark.
+    speakerName: 'Announcer:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (I better grab a seat.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (Wait a second... WHERE ARE THE SEATS!?)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (The next thing I know the train starts moving dramatically and I lose
+      my balance and fall to the floor.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Yo Gramps. Next time you should be more prepared.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Gramps? I'm only 35.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Still old, Gramps.
+    speakerName: 'Green:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (This guy is annoying. Does he have to record everything?)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (As I was getting back up a nice warm smell suddenly drifts into the car
+      as the door for the right car opens.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Ah, Good Morning passengers! I will be your Chef for today.
+    speakerName: 'Brown:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: On behalf of the staff for the Rock Solid Rail Road, Welcome Aboard.
+    speakerName: 'Brown:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I will be preparing a small welcoming snack with lunch at 1PM, and a snack
+      break at 3PM.
+    speakerName: 'Brown:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I hope you all look forward to your meals along with our journey.
+    speakerName: 'Brown:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I will be back in a few minutes time!
+    speakerName: 'Brown:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (A snack? It's a good thing I'm a bit hungry.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: (While we're waiting, I might as well get to know everyone on board.)
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []

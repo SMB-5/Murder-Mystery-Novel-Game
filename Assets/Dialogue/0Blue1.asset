@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
+  m_Name: 0Blue1
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Hello.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: ...
+    speakerName: 'Blue:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Did I do something?
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Don't worry about Blue, she's a little bit shy.
+    speakerName: 'Purple:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Wait how do you know Blue?
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: She came to me for help a few years ago and I've been taking care of her,
+      since she lost her parents.
+    speakerName: 'Purple:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: I'm so sorry to hear about that.
+    speakerName: 'Detective:'
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 5467562084085646670, guid: ccd911062b73cb0478555040eec8f83e, type: 3}
+          m_TargetAssemblyTypeName: EventManager, Assembly-CSharp
+          m_MethodName: UpdateFlag
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2

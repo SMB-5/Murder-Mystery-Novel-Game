@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: 
+  lines:
+  - text: Hello.
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: This is just a smiple dialogue test.
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: However I have something cool that I really want to show you.
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []
+  - text: Actually I don't sorry well not at the moment at least but I will have
+      it on your next visit.
+    onLineReached:
+      m_PersistentCalls:
+        m_Calls: []

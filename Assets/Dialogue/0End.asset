@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
+  m_Name: 0End
+  m_EditorClassIdentifier: 
+  lines:
+  - text: (Alright, I think I've spoken to everyone.)
+    speakerName: 'Detective:'
+  - text: Yo, are we gonna eat? It's been awhile.
+    speakerName: 'Green:'
+  - text: I'm sure the Chef is putting his love and soul into the snacks. It shouldn't
+      take much longer.
+    speakerName: 'Pink:'
+  - text: Well I'm starving!
+    speakerName: 'Green:'
+  - text: I'm going to check in on the Chef. Maybe I can give the viewers a small
+      peek as well.
+    speakerName: 'Green:'
+  - text: Please don't annoy the Chef.
+    speakerName: 'Red:'
+  - text: Well too bad Red. Later y'all.
+    speakerName: 'Green:'
+  - text: (And with that, Green goes into the next car.)
+    speakerName: 'Detective:'
+  - text: I'm sorry but I must agree with Green, it has been awhile.
+    speakerName: 'Purple:'
+  - text: At the same time Pink gives a good point, we just need to wait a little
+      bit longer.
+    speakerName: 'Yellow:'
+  - text: I just want this journey to be over.
+    speakerName: 'Red:'
+  - text: I must admit, I am curious as to why these snacks have taken so long to
+      be given out.
+    speakerName: 'Detective:'
+  - text: (As I'm left wondering about the current situation Green comes back, but
+      he's attitude has changed.)
+    speakerName: 'Detective:'
+  - text: Hey Guys...
+    speakerName: 'Green:'
+  - text: I think I've found a Dead Body.
+    speakerName: 'Green:'

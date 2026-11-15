@@ -10,11 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 49f0461d76f811e448ffa889607b5b80, type: 3}
-  m_Name: Test2
+  m_Name: 0Yellow1
   m_EditorClassIdentifier: 
   lines:
-  - text: Hello.
-  - text: This is just a smiple dialogue test.
-  - text: However I have something cool that I really want to show you.
-  - text: Actually I don't sorry well not at the moment at least but I will have
-      it on your next visit.
+  - text: Hey Yell- Uh Sheriff, it's been awhile.
+    speakerName: 'Detective:'
+  - text: It sure has partner.
+    speakerName: 'Yellow:'
+  - text: How have you been?
+    speakerName: 'Detective:'
+  - text: Just fine.
+    speakerName: 'Yellow:'
+  - text: Cool.
+    speakerName: 'Detective:'
